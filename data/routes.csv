@@ -1,0 +1,15 @@
+source,destination,distance
+City Palace,Hawa Mahal,0.8
+City Palace,Jantar Mantar,0.7
+City Palace,Albert Hall Museum,3.2
+City Palace,Amber Fort,8.5
+Hawa Mahal,Jantar Mantar,0.5
+Hawa Mahal,Albert Hall Museum,2.5
+Jantar Mantar,Albert Hall Museum,2.8
+Amber Fort,Jaigarh Fort,1.5
+Amber Fort,Nahargarh Fort,7.0
+Nahargarh Fort,Jal Mahal,6.0
+Jal Mahal,Amber Fort,6.5
+Albert Hall Museum,Ram Niwas Garden,0.5
+Ram Niwas Garden,Chokhi Dhani,18.0
+City Palace,Ram Niwas Garden,2.0

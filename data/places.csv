@@ -1,0 +1,11 @@
+id,name,category,rating,entry_fee,visit_duration,best_time,latitude,longitude,description
+1,Amber Fort,Historical,4.8,100,120,Morning,26.9855,75.8513,Historic hilltop fort with beautiful architecture
+2,City Palace,Historical,4.7,200,90,Morning,26.9258,75.8237,Royal palace complex in the heart of Jaipur
+3,Hawa Mahal,Historical,4.7,50,60,Morning,26.9239,75.8267,Iconic palace known for its unique facade
+4,Jantar Mantar,Historical,4.6,50,60,Morning,26.9247,75.8246,Historic astronomical observation site
+5,Albert Hall Museum,Historical,4.6,60,90,Evening,26.9117,75.8197,Historic museum featuring art and cultural collections
+6,Nahargarh Fort,Adventure,4.7,50,120,Evening,26.9367,75.8150,Famous fort offering panoramic views of Jaipur
+7,Jal Mahal,Nature,4.5,0,45,Evening,26.9539,75.8467,Beautiful palace located in Man Sagar Lake
+8,Jaigarh Fort,Historical,4.6,100,120,Morning,26.9850,75.8456,Historic fort famous for its massive cannon
+9,Ram Niwas Garden,Nature,4.3,0,60,Evening,26.9115,75.8180,Large historic garden in central Jaipur
+10,Chokhi Dhani,Food,4.5,700,180,Evening,26.7838,75.8297,Rajasthani cultural village with traditional food and performances
